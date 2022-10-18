@@ -1,6 +1,0 @@
-{
-      "firstname": "{{firstname}}",
-      "id": "{{id}}",
-      "designation": "{{designation}}",
-      "lastname": "{{lastname}}"
-}
